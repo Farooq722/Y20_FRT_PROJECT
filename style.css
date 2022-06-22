@@ -16,7 +16,7 @@
 }
 .menu { 
     padding:20px;
-    background: rgba(45, 168, 205, 0.73);
+    background: rgba(106, 15, 101, 0.73);
     position: absolute;
     width: 100%;
     top: 0;
@@ -52,14 +52,14 @@
 }
 .menu ul li .dropdown-content li:hover{
     background-color: whitesmoke;
-    color: tomato;
+    color: rgb(92, 17, 46);
     transform :scale(1.0);
 }
 .menu ul li .dropdown-content li a{
     text-decoration: none;
 }
 .menu ul li .dropdown-content li a:hover{
-    color: rgb(245, 9, 9);
+    color: rgb(184, 0, 83);
 }
 header .menu a{
     text-decoration: none;
@@ -70,7 +70,7 @@ header .menu a{
     top: 50%;
     right: 2%;
     font-weight: bolder;
-    color:rgb(22, 22, 21);
+    color:rgb(38, 1, 56);
 }
 .main-content .top{
     font-size: 70px;
@@ -100,7 +100,7 @@ header .menu a{
 }
 .btn a{
     text-decoration: none;
-    color: rgb(202, 6, 6);
+    color: rgb(240, 0, 96);
 }
 
 @media screen and (max-width:767px){
@@ -121,7 +121,7 @@ header .menu a {
 }
 
 .main-content{
-    color: rgb(207, 0, 0);
+    color: rgb(97, 48, 84);
 }
 .main-content{
     top:60%;
@@ -223,39 +223,40 @@ header .menu a {
   from {opacity: .4}
   to {opacity: 1}
 }
+
 @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
-  .brand-title{
-      padding: auto;
-      text-align: center;
-      text-align-last: center;
-      color: rgb(181, 0, 0);
-  }
-  .tm-bg-video { 
-      padding-top: 255px; }
-    .overlay { 
-          height: 255px;
-  }
-  @media screen and (max-width: 767px) and (min-width: 524px) {
-    .tm-search-form .tm-form-element-100 { 
-      width: 100%; 
-      max-width: none;
-    }
-  
-    .tm-search-form .tm-form-element-50 { width: 50%; }
-  }
-  
-  @media screen and (max-width: 524px) {
-    .tm-section-pad-2 { padding: 20px 25px; }
-  
-    .tm-search-form .tm-form-element {
-      width: 100%;
-      max-width: 100%;
-    }
-  
-    .tm-fx-col-xs { flex-direction: column; }
-    .tm-section-pad { padding: 25px 15px; }
-    #tm-section-1 { height: 600px; }
-  }
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.brand-title{
+    padding: auto;
+    text-align: center;
+    text-align-last: center;
+    color: rgb(202, 19, 19);
+}
+.tm-bg-video { 
+    padding-top: 255px; }
+	.overlay { 
+        height: 255px;
+}
+@media screen and (max-width: 767px) and (min-width: 524px) {
+	.tm-search-form .tm-form-element-100 { 
+		width: 100%; 
+		max-width: none;
+	}
+
+	.tm-search-form .tm-form-element-50 { width: 50%; }
+}
+
+@media screen and (max-width: 524px) {
+	.tm-section-pad-2 { padding: 20px 25px; }
+
+	.tm-search-form .tm-form-element {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	.tm-fx-col-xs { flex-direction: column; }
+	.tm-section-pad { padding: 25px 15px; }
+	#tm-section-1 { height: 600px; }
+}
