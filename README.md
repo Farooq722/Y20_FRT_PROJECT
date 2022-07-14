@@ -31,3 +31,8 @@ https://proud-dune-0713b0e10.1.azurestaticapps.net
 
 # Sample images of the project :
 
+![Screenshot (108)](https://user-images.githubusercontent.com/99309231/179045461-29b8cf12-563a-4ea8-8bf5-90d77c082314.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/99309231/179045469-b7dd9f7b-3bc6-401a-a11a-4a538df10c64.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/99309231/179045470-fc72b36e-64cf-41bb-9149-6902b0ebc6b8.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/99309231/179045472-23a18d21-91fc-4e8c-85c2-fede48229616.png)
+![Screenshot (112)](https://user-images.githubusercontent.com/99309231/179045475-637a942a-e232-4cad-a9cb-3dc1f33ad2b7.png)
