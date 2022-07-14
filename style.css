@@ -106,7 +106,6 @@ header .menu a{
 @media screen and (max-width:767px){
 body{
     font-size: 2rem;
-    background-image: url("https://www.hotellinksolutions.com/images/blog/featured1.jpeg");
     background-repeat: repeat;
     background-size: fill;
 }
